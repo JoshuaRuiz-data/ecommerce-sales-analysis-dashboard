@@ -18,13 +18,13 @@ This project analyzes e-commerce transaction data to uncover key business insigh
 ## Dashboard Preview
 
 ### Overview
-![Overview](images/overview.png)
+![Overview](images/overview.PNG)
 
 ### Sales Analysis
-![Sales Analysis](images/sales-analysis.png)
+![Sales Analysis](images/sales-analysis.PNG)
 
 ### Customer Analysis
-![Customer Analysis](images/customer-analysis.png)
+![Customer Analysis](images/customer-analysis.PNG)
 
 ## Key Insights
 - A small number of products contributes a significant share of total revenue
